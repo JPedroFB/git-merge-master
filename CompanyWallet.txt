@@ -1,7 +1,0 @@
-import Company
-
-findByFinalReceivingUser(String finalReceivingUser){}
-
-findByFinalReceivingUser(String finalReceivingUser){}
-
-findByFinalReceivingUser(String finalReceivingUser){}
