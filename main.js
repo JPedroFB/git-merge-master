@@ -1,5 +1,6 @@
 import Company from './Company.js';
 
-let company = new Company()
+import CompanyChannel from './CompanyChannel.js'
 
-company.findByFinalReceivingUser('meu',null,'ovo')
+
+new CompanyChannel()
