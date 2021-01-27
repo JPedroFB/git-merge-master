@@ -1,1 +1,1 @@
-findByFinalReceivingUser(String finalReceivingUser){}
+findByFinalReceivingUser(String finalReceivingUser, Boolean withChannel){}
